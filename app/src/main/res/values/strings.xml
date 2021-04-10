@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rise</string>
+    <string-array name="category_array">
+        <item>Math</item>
+        <item>Geography</item>
+        <item>Sudoku</item>
+        <item>Crossword</item>
+        <item>Random</item>
+    </string-array>
+</resources>
